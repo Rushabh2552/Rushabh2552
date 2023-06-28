@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Rushabh Modi</h1>
 
 ## 🌐 Socials:
