@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **rushabhmodi2552@gmail.com**
 - 👩‍💻 I am working on MERN stack
-- 🚀 Resume <a href="https://drive.google.com/file/d/1-i5d4qSSUpRQRVN7to6C4Mww1N-wAkGI/view?usp=sharing">Link</a>
+- 🚀 Resume <a href="https://drive.google.com/file/d/18M0MVXNqJhlh29BhiqbkUHlmfqq1XmF5/view">Link</a>
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushabh-modi/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Rushabh_25/)
